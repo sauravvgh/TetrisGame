@@ -233,5 +233,4 @@ function gameOver(){
     }
 }
 
-
 })
